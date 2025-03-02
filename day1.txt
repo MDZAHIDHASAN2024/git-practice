@@ -1,1 +1,2 @@
-This is day one
+This is day one.
+this is day two.
